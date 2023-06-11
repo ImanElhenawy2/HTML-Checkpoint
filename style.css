@@ -141,9 +141,6 @@ h1{
     text-align: center;
 }
 .input{
-    /* display:flex; */
-    /* align-items: center; */
-    /* flex-direction: column; */
     padding: 40px;
     margin: 30px;
     
@@ -163,7 +160,7 @@ h1{
     margin-bottom: 20px;
 }
 .input input[ type="submit"]{
-    background-color:rgb(29, 114, 29) ;
+    background-color:rgb(62, 122, 62) ;
     color: #fff;
     width: 430px;
     margin-left: 0px;
